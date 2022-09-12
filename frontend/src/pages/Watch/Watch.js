@@ -5,9 +5,6 @@ import "./watch.scss";
 import { useLocation } from "react-router-dom";
 
 export default function Watch() {
-  const location = useLocation();
-  console.log(location);
-
   const activeMovie = location.movie;
 
   return (
