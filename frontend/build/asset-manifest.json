@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e7582771.css",
+    "main.js": "/static/js/main.f58f7b3e.js",
+    "static/media/pexels-christian-buergi-13014389.jpg": "/static/media/pexels-christian-buergi-13014389.ca146ac25101216adf9b.jpg",
+    "static/media/login-background.jpg": "/static/media/login-background.be6b9065f45815dc23b5.jpg",
+    "static/media/users.png": "/static/media/users.fd59a2987e255464c151.png",
+    "static/media/netflix.png": "/static/media/netflix.774e8c1632ac9433608b.png",
+    "index.html": "/index.html",
+    "main.e7582771.css.map": "/static/css/main.e7582771.css.map",
+    "main.f58f7b3e.js.map": "/static/js/main.f58f7b3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7582771.css",
+    "static/js/main.f58f7b3e.js"
+  ]
+}

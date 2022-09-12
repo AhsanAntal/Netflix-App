@@ -20,7 +20,7 @@ export default function Watch() {
         className="video"
         autoPlay={true}
         controls
-        src={activeMovie.video}
+        src={activeMovie.trailer}
       ></video>
     </div>
   );

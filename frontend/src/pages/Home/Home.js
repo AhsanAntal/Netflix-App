@@ -16,7 +16,7 @@ export default function Home({ type }) {
       try {
         const res = await axios.get(
           `http://localhost:3001/api/lists ${type ? "?type" + type : ""}${
-            genre ? "?genre" + genre : ""
+            genre ? "&genre" + genre : ""
           }`,
           {
             headers: {
